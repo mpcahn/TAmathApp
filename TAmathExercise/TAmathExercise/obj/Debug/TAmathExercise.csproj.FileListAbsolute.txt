@@ -1,0 +1,7 @@
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\bin\Debug\TAmathExercise.exe.config
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\bin\Debug\TAmathExercise.exe
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\bin\Debug\TAmathExercise.pdb
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\obj\Debug\TAmathExercise.csprojAssemblyReference.cache
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\obj\Debug\TAmathExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\obj\Debug\TAmathExercise.exe
+C:\Users\Matt\Source\Repos\TAmathApp\TAmathExercise\TAmathExercise\obj\Debug\TAmathExercise.pdb
